@@ -1,0 +1,1 @@
+{"name":"chuk-jeel","private":true,"version":"3.0.0","type":"module","scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},"dependencies":{"@supabase/supabase-js":"latest","react":"latest","react-dom":"latest","vite":"latest"}}
